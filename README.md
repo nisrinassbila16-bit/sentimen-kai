@@ -2,8 +2,8 @@
 
 ## UTS_Big-Data
 
-**Nama:** Fuji Yanti  
-**NIM:** 14022300008  
+**Nama:** Nisrina Salsabila  
+**NIM:** 14022300048  
 **Prodi:** Sistem Informasi  
 
 ## Deskripsi Project
